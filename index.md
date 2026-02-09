@@ -3,7 +3,8 @@ layout: default
 title: "Sahana Saravanan — Networking Portfolio"
 ---
 
-# Networking Notes & Troubleshooting Journal
+# Sahana Saravanan
+**Networking Notes & Troubleshooting Journal**
 
 This repository documents my learning journey in networking fundamentals, as I prepare for CCNA, with a focus on **How to think through problems**, not just memorising the concepts.
 
