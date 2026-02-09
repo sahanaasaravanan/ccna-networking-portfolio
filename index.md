@@ -1,36 +1,48 @@
 ---
 layout: default
-title: "Sahana Saravanan — Networking Portfolio"
+title: "Sahana Saravanan — Networking Notes & Troubleshooting Journal"
 ---
 
 # Sahana Saravanan
 **Networking Notes & Troubleshooting Journal**
 
-This repository documents my learning journey in networking fundamentals, as I prepare for CCNA, with a focus on **How to think through problems**, not just memorising the concepts.
-
-I intend to use **Cisco Packet Tracer** to run labs and troubleshoot the issues, which would help me transition from theoretical to real-world knowledge.
+Building a practical understanding of computer networks through
+concepts, verification commands, and hands-on troubleshooting labs.
 
 ---
 
 ## How I Learn and Document
 
-I follow some simple rules for every topic:
+For each topic, I follow a simple loop:
+
 - Understand the concept
-- Work it in the lab
-- Break the configuration and troubleshoot
-- Document my reasoning behind the fix
+- Break it in a lab
+- Verify using commands
+- Write down the reasoning behind the fix
 
-It helps me retain the concept and develop a practical mindset
+This helps me retain concepts and build a practical troubleshooting mindset.
 
-## Focus Areas
+---
+
+## Current Focus Areas
+
 - VLAN fundamentals and trunking
-- Native VLAN and common misconfigurations
-- Wireless AP and WLC architecture
-- Hands-on troubleshooting labs
+- Inter-switch connectivity
+- Native VLAN behavior and common misconfigurations
+- Cisco wireless architectures (APs, WLCs, control vs data plane)
+
+---
 
 ## Blogs
 
-- [VLAN Basics - Concepts, Logic, and Troubleshooting](vlan/vlan-basics.md)
+- [VLAN Basics: Concepts, Tagging, and Troubleshooting](vlan/vlan-basics)
 
-*(Troubleshooting Labs will be added as I complete and validate them)*
+*(Lab-based troubleshooting blogs will be added as I complete and validate them.)*
 
+---
+
+📫 **Connect**
+- GitHub: https://github.com/sahanaasaravanan
+- LinkedIn: https://www.linkedin.com/in/sahana-saravanan/
+
+*This site is updated as I progress through networking concepts and labs.*
