@@ -43,6 +43,6 @@ This helps me retain concepts and build a practical troubleshooting mindset.
 
 📫 **Connect**
 - GitHub: https://github.com/sahanaasaravanan
-- LinkedIn: https://www.linkedin.com/in/sahana-saravanan/
+- LinkedIn: <add-your-link-here>
 
 *This site is updated as I progress through networking concepts and labs.*
